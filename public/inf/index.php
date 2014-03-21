@@ -1,0 +1,1 @@
+<a href="http://www.novkva.ru/" target="_blank"><img src="http://www.novkva.ru/inf/informer_kvam.php" width="200" height="200" title="Недвижимость Великого Новгорода - Проект Новгородская Квартира" alt="Стоимость 1 кв. метра жилья в Великом Новгороде - Проект Новгородская Квартира" border="0"></a>
